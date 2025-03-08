@@ -22,7 +22,7 @@ his debt.
  Possible pitfalls.
  Prediction.
  One-hot encoding.
- Train-testsplit.
+ Train-test split.
 
 # Model 1: Logistic Regression 
 # Model 2: Elastic Net 
