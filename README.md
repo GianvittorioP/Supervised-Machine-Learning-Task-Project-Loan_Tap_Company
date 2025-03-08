@@ -23,16 +23,18 @@ Possible pitfalls
 Prediction
 One-hot encoding
 Train-testsplit
+
 # Model 1: Logistic Regression 
 # Model 2: Elastic Net 
 # Model 3 : Logistic Regression on restricted model (significant variables)
 # Model 4: Logistic Regression with balanced classes (full model)
-# Model 5: LogisticRegressionwithbalancedclasses(restrictedmodel)
+# Model 5: LogisticRegressionwithbalancedclasses (restrictedmodel)
 # Random Forest & Perceptron vs Model 4
 # Model 6: Logistic Regression with RATIOs (full model)
 # Model 7: LogisticRegressiononthedatasetwithoutliers
 # Model 8: Logistic Regression with balanced classes and in the dataset with outliers
-# Interpretation of the result & Model selection
+
+
 
 
 
