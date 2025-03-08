@@ -31,7 +31,7 @@ his debt.
 # Model 5: LogisticRegressionwithbalancedclasses (restrictedmodel)
 # Random Forest & Perceptron vs Model 4
 # Model 6: Logistic Regression with RATIOs (full model)
-# Model 7: LogisticRegressiononthedatasetwithoutliers
+# Model 7: Logistic Regression on the dataset without liers
 # Model 8: Logistic Regression with balanced classes and in the dataset with outliers
 
 
