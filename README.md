@@ -15,14 +15,14 @@ his debt.
 
 
 # MAIN PART: 
-Handling missing values
-Feature Engineering
-Drop raw and useless/similar columns to avoid multicollinearity
-EDA with/without outliers  
-Possible pitfalls
-Prediction
-One-hot encoding
-Train-testsplit
+ Handling missing values.
+ Feature Engineering.
+ Drop raw and useless/similar columns to avoid multicollinearity.
+ EDA with/without outliers.  
+ Possible pitfalls.
+ Prediction.
+ One-hot encoding.
+ Train-testsplit.
 
 # Model 1: Logistic Regression 
 # Model 2: Elastic Net 
